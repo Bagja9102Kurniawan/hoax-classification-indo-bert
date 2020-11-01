@@ -1,3 +1,3 @@
 # hoax-classification
 
-### Indonesian Hoax Classification with Dual IndoBERT
+### Indonesian Hoax Classification with IndoBERT
